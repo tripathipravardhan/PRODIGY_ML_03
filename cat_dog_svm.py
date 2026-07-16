@@ -10,7 +10,7 @@ from sklearn.metrics import accuracy_score, classification_report, ConfusionMatr
 
 
 # SETTINGS
-DATASET_PATH = "dataset/train"
+DATASET_PATH ="dogs-vs-cats/train/train"
 IMAGE_SIZE = 64
 SAMPLES_PER_CLASS = 1000
 RANDOM_STATE = 42
