@@ -85,3 +85,10 @@ PRODIGY_ML_03
 ## 👨‍💻 Author
 
 **Pravardhan Tripathi**
+
+- GitHub: [tripathipravardhan](https://github.com/tripathipravardhan)
+- LinkedIn: [Pravardhan Tripathi](https://www.linkedin.com/in/pravardhan-tripathi-a8a5ab37a)
+
+## 📄 License
+
+This project is licensed under the MIT License.
